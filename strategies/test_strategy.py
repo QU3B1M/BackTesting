@@ -1,7 +1,10 @@
 import backtrader as bt
+from indicators.trix_signal import TrixIndicator
 
 
 class TestStrategy(bt.Strategy):
+    params = (("trixperiod", 15),)
+
     def log(self, txt, dt=None):
         """ Logging function fot this strategy"""
         dt = dt or self.datas[0].datetime.date(0)
@@ -11,6 +14,8 @@ class TestStrategy(bt.Strategy):
         # Keep a reference to the "close" line in the data[0] dataseries
         self.dataclose = self.datas[0].close
         self.order = None
+        # We are only using this indicator for the Plot, not to buy or sell
+        TrixIndicator(self.data, period=self.params.trixperiod)
 
     def notify_order(self, order):
         if order.status in [order.Submitted, order.Accepted]:
