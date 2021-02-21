@@ -2,8 +2,8 @@
 
 In this project im using *BackTrader* to test diferent strategies against historical market data.
 
->Acording to its creator, BackTrader is...
-> > A feature-rich Python framework for backtesting and trading.
+Acording to its creator, BackTrader is...
+> A feature-rich Python framework for backtesting and trading.
 
 You can use this repo as boilerplate example for your Backtesting scripts
 
