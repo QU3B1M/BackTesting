@@ -19,9 +19,3 @@ Well start running these back tests is pretty easy, you can do it in only 2 step
 - Run the scripts with the command `python main.py golden_cross` 
 >(*in this case im using golden cross, but u can use any.*)
 
-## Good to mention
-
-My name is Kevin Ledesma im a Python developer and my ambition is to learn and to share my\
-knowledge as I keep learning.
-
-Any kind of comment, recommendation, correction is welcome!
