@@ -21,7 +21,7 @@ Well start running these back tests is pretty easy, you can do it in only 2 step
 
 ## Good to mention
 
-My name is Kevin Ledesma im Python developer in [IEKO](www.ieko.com.ar), my ambition is to learn and to share my\
+My name is Kevin Ledesma im a Python developer and my ambition is to learn and to share my\
 knowledge as I keep learning.
 
 Any kind of comment, recommendation, correction is welcome!
