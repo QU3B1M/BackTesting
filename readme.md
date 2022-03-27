@@ -1,4 +1,4 @@
-# Python Backtesting (BackTrader)
+# Python BackTesting (BackTrader)
 
 In this project im using *BackTrader* to test diferent strategies against historical market data.
 
