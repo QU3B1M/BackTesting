@@ -1,4 +1,4 @@
-# Backtesting with BackTrader
+# Python Backtesting (BackTrader)
 
 In this project im using *BackTrader* to test diferent strategies against historical market data.
 
@@ -19,3 +19,6 @@ Well start running these back tests is pretty easy, you can do it in only 2 step
 - Run the scripts with the command `python main.py golden_cross` 
 >(*in this case im using golden cross, but u can use any.*)
 
+## License
+
+This project is licensed under the [MIT license](LICENSE).
