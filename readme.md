@@ -7,8 +7,7 @@ Acording to its creator, BackTrader is...
 
 You can use this repo as boilerplate example for your Backtesting scripts
 
-For now we only have 3 available strategies *`(test_strategy, golden_cross and buy_hold)`*\
-but i'll keep updating this repo with a lot more.
+For now we only have 3 available strategies *`(test_strategy, golden_cross and buy_hold)`*
 
 ## Usage
 
